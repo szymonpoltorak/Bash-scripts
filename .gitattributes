@@ -1,0 +1,7 @@
+*.bash text eol=lf
+*.sh text eol=lf
+
+*.md text diff=markdown
+*.mdx text diff=markdown
+
+.gitattributes export-ignore
