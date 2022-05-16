@@ -12,4 +12,6 @@ instructions written in polish.
 * **cw2**,
 * **cw3**,
 * **getpng**,
-* **script**.
+* **script**,
+* [Two Fer](https://exercism.org/tracks/bash/exercises/two-fer),
+* [Error Handling](https://exercism.org/tracks/bash/exercises/error-handling).
