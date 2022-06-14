@@ -14,4 +14,5 @@ instructions written in polish.
 * **getpng**,
 * **script**,
 * [Two Fer](https://exercism.org/tracks/bash/exercises/two-fer),
-* [Error Handling](https://exercism.org/tracks/bash/exercises/error-handling).
+* [Error Handling](https://exercism.org/tracks/bash/exercises/error-handling),
+* [Raindrops](https://exercism.org/tracks/bash/exercises/raindrops).
